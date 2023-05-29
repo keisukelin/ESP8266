@@ -79,8 +79,8 @@
 #ifdef WIFI_MANAGER
 # include "WiFiManager.h"
 #else
-# define WIFI_SSID "Unifi"
-# define WIFI_PASS "0937571056"
+# define WIFI_SSID "Wifi"
+# define WIFI_PASS "Yourpassword"
 #endif
  
  
